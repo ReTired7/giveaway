@@ -1,0 +1,8 @@
+*.txt
+*.jar
+*.sh
+/live/
+/test/
+/target/
+/src/main/resources/static/
+/src/main/resources/templates
